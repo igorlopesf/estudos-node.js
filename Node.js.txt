@@ -26,3 +26,11 @@ O que são módulos ?
 O que é HTTP? 
 - É um protocolo de transferência de dados Web.
 - É composto por requisição e resposta.
+
+Express o que é?
+
+É um framework de desenvolvimento Web back-end utilizando o Node.js.
+
+ROTAS
+O que é uma rota? 
+São os caminhos que uma aplicação possui
