@@ -1,0 +1,28 @@
+Interpretador de JS nos navegador (V8) - entende e executa 
+
+O que Node.js? 
+- É um interpretador Js que roda fora dos navegadores.
+
+O que é possível fazer com Node.js?
+- Contruir aplicações web back-end com javascript.
+- Aplicações para windows 
+- Aplicações desktop 
+- Aplicações de linha de comando 
+- Aplicativos móveis 
+
+Por que usa?
+- Leve
+- Rápido 
+- Usa JS
+- Tem um dos maiores ecossistemas do mundo 
+- Está sendo utilizado fortemente no mercado.
+- Fácil 
+
+O que são módulos ?
+- São pedaços de um programa 
+- Módulos também funcionam como bibliotecas 
+
+
+O que é HTTP? 
+- É um protocolo de transferência de dados Web.
+- É composto por requisição e resposta.
